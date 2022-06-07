@@ -1,6 +1,6 @@
 # **Pavel Tsikhanau**
 ## **`Contact information:`**
-* **E-mail:** [pavel.tsikhanau@gmail.com](pavel.tsikhanau@gmail.com)
+* **E-mail:** [@Pavel_Tsikhanau](pavel.tsikhanau@gmail.com)
 * **Telegram:** [@Pavel_Tsikhanau](https://msng.link/o/?Pavel_Tsikhanau=tg)
 
 ***
@@ -28,3 +28,4 @@ Now I have decided to change the field of activity and I am sure that the skills
 * **Russian** (_native_)
 * **Belarusian** (_advanced_)
 * **English** (_pre-intermediate_)
+
