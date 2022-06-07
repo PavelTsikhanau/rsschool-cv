@@ -1,7 +1,8 @@
 # **Pavel Tsikhanau**
 ## **`Contact information:`**
-* **E-mail:** (pavel.tsikhanau@gmail.com)
+* **E-mail:** [pavel.tsikhanau@gmail.com](pavel.tsikhanau@gmail.com)
 * **Telegram:** [@Pavel_Tsikhanau](https://msng.link/o/?Pavel_Tsikhanau=tg)
+
 ***
 ## **`Briefly About Myself:`** 
 I have been fond of sports since childhood and for 15 years I was a member of the national team of Belarus in modern pentathlon.
@@ -16,6 +17,7 @@ Now I have decided to change the field of activity and I am sure that the skills
 ***
 ## **`Code example:`**
 >NOT YET ;(
+
 ***
 ## **`Courses:`**
 * HTML & CSS on [HTMLAcademy](https://htmlacademy.ru/courses) (_in progress_)
