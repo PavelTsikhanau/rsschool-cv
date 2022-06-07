@@ -1,6 +1,6 @@
 # **Pavel Tsikhanau**
 ## **`Contact information:`**
-* **E-mail:** pavel.tsikhanau@gmail.com
+* **E-mail:** (pavel.tsikhanau@gmail.com)
 * **Telegram:** [@Pavel_Tsikhanau](https://msng.link/o/?Pavel_Tsikhanau=tg)
 ***
 ## **`Briefly About Myself:`** 
