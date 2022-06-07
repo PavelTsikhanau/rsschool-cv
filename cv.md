@@ -14,6 +14,7 @@ Now I have decided to change the field of activity and I am sure that the skills
 * **JavaScript Basics**
 * **Git, GitHub**
 * **VS Code**
+
 ***
 ## **`Code example:`**
 >NOT YET ;(
