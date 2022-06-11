@@ -1,3 +1,44 @@
-#h1 {
-color: blue;
+h5 {
+color: #024e3e;
+font-style: italic;
+font-family: fantasy;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-width: 100%;
+    border-radius: 0.1%;
+}
+
+.center {
+text-align: center;
+margin-left: auto;
+margin-right: auto 
+}
+
+#image {
+text-align:center;
+width: 25%;  
+background:black; 
+border-radius: 5px; 
+padding: 0.1%; 
+}
+
+body {
+    background-color: khaki;
+}
+
+footer {
+    font-family: fantasy;
+    color: #024e3e;
+    float: right;
+}
+
+td {
+    vertical-align: top;
+    width: 50%;
 }
