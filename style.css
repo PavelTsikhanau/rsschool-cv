@@ -7,12 +7,6 @@ h2 {
     text-align: center;
     }
 
-h5 {
-    color: hsl(82, 21%, 39%);
-    font-style: italic;
-    font-family: fantasy;
-}
-
  #image {
     text-align:center;
     
@@ -43,6 +37,9 @@ body {
 
 header {
     margin-left: 1%;
+    color: hsl(82, 21%, 39%);
+    font-style: italic;
+    font-family: fantasy;
 }
 
 footer {
