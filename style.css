@@ -1,44 +1,115 @@
-h5 {
-color: #024e3e;
-font-style: italic;
-font-family: fantasy;
-}
-
-h1{
+h1 {
+    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-table {
-    width: 100%;
-    border-width: 100%;
-    border-radius: 0.1%;
+h2 {
+    text-align: center;
+    }
+
+h5 {
+    color: hsl(82, 21%, 39%);
+    font-style: italic;
+    font-family: fantasy;
 }
 
-.center {
-text-align: center;
-margin-left: auto;
-margin-right: auto 
-}
+ #image {
+    text-align:center;
+    
+ /* width: 25%;  
+    background:black; 
+    border-radius: 5px; 
+    padding: 0.1%; */
+} 
 
-#image {
-text-align:center;
-width: 25%;  
-background:black; 
-border-radius: 5px; 
-padding: 0.1%; 
+.beauty-rotate {
+    width: 25%;
+    border: double 1px; color: hsl(82, 21%, 39%); /* Рамка */
+    border-radius: 15%;
+    overflow: hidden;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+} 
+
+.beauty-rotate:hover {
+    border-radius: 50%;
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
 
 body {
     background-color: khaki;
 }
 
-footer {
-    font-family: fantasy;
-    color: #024e3e;
-    float: right;
+header {
+    margin-left: 1%;
 }
 
-td {
-    vertical-align: top;
-    width: 50%;
+footer {
+    font-family: fantasy;
+    color: hsl(82, 21%, 39%);
+    float: right;
+    margin-right: 1%;
 }
+
+div {
+    text-align: left;
+    width: 45%;
+}
+
+.block-1 {
+    position:relative; left: 15%;
+    background-color: darkkhaki;
+    text-align: center;
+    border-radius: 15%;
+    padding: 0.5cm;
+}
+
+.block-2 {
+    position:relative;
+    background-color: rgb(224, 201, 98);
+    text-align: left;
+    border-radius: 15%;
+    padding: 0.5cm;
+    margin: 0.5cm;
+}
+
+.block-3 {
+    position:relative; left: 20%;
+    background-color: #708580;
+    border-radius: 15%;
+    padding: 0.5cm;
+}
+
+.block-4 {
+    position:relative;
+    background-color: darkseagreen;
+    text-align: left;
+    border-radius: 15%;
+    padding: 0.5cm;
+    margin: 0.5cm;
+}
+
+.block-5 {
+    position:relative; left: 25%;
+    background-color: burlywood;
+    border-radius: 15%;
+    padding: 0.5cm;
+}
+
+.block-6 {
+    position:relative; 
+    background-color: rgb(179, 170, 58);
+    text-align: left;
+    border-radius: 15%;
+    padding: 0.5cm;
+    margin: 0.5cm;
+}
+
+.block-7 {
+    position:relative; left: 30%;
+    background-color: hsl(82, 21%, 39%);
+    border-radius: 15%;
+    padding: 0.5cm;
+}
+
