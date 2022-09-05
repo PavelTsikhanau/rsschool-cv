@@ -110,3 +110,17 @@ div {
     padding: 0.5cm;
 }
 
+.fixed {
+    position: fixed;
+    top: 150px; left: 1%; 
+    border: 1px solid black; 
+    border-radius: 15%;
+    width: 5%; height: 200px; 
+    padding: 5px; 
+    background: hwb(148 43% 39%); 
+    margin: 0 auto; 
+    opacity: 0.6; 
+    filter: alpha(Opacity=60);
+    text-align: center;
+}
+
