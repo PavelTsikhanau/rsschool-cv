@@ -3,6 +3,7 @@
 ## **`Contact information:`**
 * **E-mail:** [@Pavel_Tsikhanau](pavel.tsikhanau@gmail.com)
 * **Telegram:** [@Mail_Tsikhanau](https://msng.link/o/?Pavel_Tsikhanau=tg)
+* **Codewars** [@Codewars_Tsikhanau] (https://www.codewars.com/users/PavelTsikhanau)
 
 ## **`Briefly About Myself:`** 
 I have been fond of sports since childhood and for 15 years I was a member of the national team of Belarus in modern pentathlon.
