@@ -16,12 +16,15 @@ Now I have decided to change the field of activity and I am sure that the skills
 * **VS Code**
 
 ## **`Code example:`**
->NOT YET ;(
+>const getRandomItem = (array) => {    
+    const randomIndex = Math.floor(Math.random() * array.length);
+    return array[randomIndex];
+}
 
 ## **`Courses:`**
 * HTML & CSS on [HTMLAcademy](https://htmlacademy.ru/courses) (_in progress_)
 * Java Script Manual on [JAVASCRIPT.RU](https://learn.javascript.ru/) (_in progress_)
-* JS / FRONT-END. STAGE '`0`' from [RS School](https://rs.school/) (_in progress_)
+* JS / FRONT-END. STAGE '`1`' from [RS School](https://rs.school/) (_in progress_)
 
 ## **`Languages:`**
 * **Russian** (_native_)
