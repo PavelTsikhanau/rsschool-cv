@@ -6,30 +6,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pavel Tsikhanau CV</title>
     <link href="style.css" rel="stylesheet" type="text/css">
+    <script src="index.js"></script>
 </head>
 <body>
     <header>
-        <p title="RSSchool">CV for RSSchool</p>
-        <br>
+        <div>
+            <a class="title" title="RSSchool">CV for RSSchool</a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#block-2">Contacts</a></li>
+                <li><a href="#block-3">About myself</a></li>
+                <li><a href="#block-4">Skills</a></li>
+                <li><a href="#block-5">Courses</a></li>
+                <li><a href="#block-6">Code examples</a></li>
+                <li><a href="#block-7">Languages</a></li>
+            </ul>
+        </nav>
     </header>
     <main>
-        <div class="block-1">
+        <div id="block-1">
                 <h1>Pavel Tsikhanau</h1>
-                <img id="image" src="avatar_picture.jpeg" alt="Avatar picture" class="beauty-rotate">
+                <img id="image" src="/Images/avatar_picture.jpeg" alt="Avatar picture" class="beauty-rotate">
         </div>
-        <div class="block-2"><h2>Contact information:</h2>
+        <div id="block-2"><h2>Contact information:</h2>
             <ul>
                 <li>E-mail:<a href="pawel.tsikhanau@gmail.com">pawel.tsikhanau@gmail.com</a></li>
                 <li>Telegram:<a href="https://msng.link/o/?Pavel_Tsikhanau=tg">@Pavel_Tsikhanau</a></li>
                 <li>Discord: Pawel Tsikhanau #4022</li>
+                <li>GitHub<a href="https://github.com/PavelTsikhanau">@PavelTsikhanau</a></li>
             </ul>
         </div>  
-        <div class="block-3"><h2>Briefly About Myself:</h2> 
+        <div id="block-3"><h2>Briefly about myself:</h2> 
             <p>I have been fond of sports since childhood and for 15 years I was a member of the national team of Belarus in modern pentathlon.</p>
             <p>Sport brought up in me purposefulness, diligence, responsibility, striving for excellence, communication skills.</p> 
             <p>Now I have decided to change the field of activity and I am sure that the skills that I have acquired during my sports career will help me reach heights in the field of Front-end Development.</p>
         </div>
-        <div class="block-4"><h2>Skills and profeciences:</h2>
+        <div id="block-4"><h2>Skills and profeciences:</h2>
             <ul>
                 <li>HTML5, CSS</li>
                 <li>JavaScript Basics</li>
@@ -37,35 +50,44 @@
                 <li>VS Code</li>
             </ul>
         </div>
-        <div class="block-5"><h2>Courses:</h2>
+        <div id="block-5"><h2>Courses:</h2>
             <ul>
                 <li>HTML & CSS on HTMLAcademy (in progress)</li>
                 <li>Java Script Manual on JAVASCRIPT.RU (in progress)</li>
-                <li>JS / FRONT-END. STAGE 0 from RS School (in progress)</li>
+                <li>JS / FRONT-END. STAGE 0 from RS School, STAGE 1 (in progress)</li>
             </ul>
         </div>
-        <div class="block-6"><h2>Code examples:</h2>
+        <div id="block-6"><h2>Code examples:</h2>
              <p><code>
-                     alert( 'Привет, мир!' );
+                const getRandomItem = (array) => {
+                    const randomIndex = Math.floor(Math.random() * array.length); return array[randomIndex]; }
               </code></p>
         </div>
-        <div class="block-7"><h2>Languages:</h2>
+        <div id="block-7"><h2>Languages:</h2>
             <ul>
                 <li>Russian (native)</li>
                 <li>Belarusian (upper-intermediate)</li>
                 <li>English (pre-intermediate)</li>
             </ul>
         </div>
-        <div class="fixed">
-            <p>F</p>
-            <p>I</p>
-            <p>X</p>
-            <p>E</p>
-            <p>D</p>
-        </div>
     </main>
     <footer>
-        <br><p>June 2022</p>
+        <div class="footer-signature">
+            <a>Sept. 2022</a>
+        </div>
+        <div class="footer-icons">
+            <div class="footer-icon"><a href="https://rs.school/"><img class="footer-img" src="/Images/rs-logo.svg"></a></div>
+            <div class="footer-icon"><a href="https://www.codewars.com/users/PavelTsikhanau"><img class="footer-img" src="/Images/Codewars_logo.svg"></a></div>
+            <div class="footer-icon"><a href="https://github.com/PavelTsikhanau"><img class="footer-img" src="/Images/GitHub_logo_2013.svg"></a></div>
+        </div>
     </footer>
 </body>
 </html>
+
+<!-- <select> 
+    <option value=""></option>
+    <option value=""></option>
+    <option value=""></option>
+    <option value=""></option>
+    <option value=""></option>
+</select> -->
