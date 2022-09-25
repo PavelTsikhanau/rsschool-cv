@@ -229,3 +229,24 @@ footer {
     width: 70px;
 }
 
+.footer-signature {
+    padding-left: 80px;
+}
+
+.footer-img {
+    width: 45px;
+    height: 40px;
+}
+
+.footer-icons {
+    padding-left: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footer-icon {
+    width: 70px;
+}
+
+

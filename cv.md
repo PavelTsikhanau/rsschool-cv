@@ -1,4 +1,4 @@
-# **Pavel Tsikhanau**
+# **`Pavel Tsikhanau`**
 
 ## **`Contact information:`**
 * **E-mail:** [@Pavel_Tsikhanau](pavel.tsikhanau@gmail.com)
