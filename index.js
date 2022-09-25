@@ -1,9 +1,5 @@
-//let age = prompt('How old are You?', '100');
-//alert(`Тебе ${age} лет!`);
 
-
-
-
-
-
-
+$(document).on("click", ".go-to-top", function(e) {
+    e.preventDefault();
+    $('body, html').animate({scrollTop: 0}, 1000);
+});
