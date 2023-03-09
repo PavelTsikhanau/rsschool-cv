@@ -1,0 +1,23 @@
+.header-desktop {
+    display: none;
+}
+
+.header-mobile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    
+    width: 99%;
+    height: 90px;
+    border: solid rgb(94, 92, 92) 2px;
+    box-shadow: 5px 5px 0px 0px rgba(0,0,0,0.4);
+    
+    color: hsl(0, 0%, 100%);
+    font-style: italic;
+    font-family: fantasy;
+    font-size:medium;
+    background-color: #338a75;
+}
+
+
